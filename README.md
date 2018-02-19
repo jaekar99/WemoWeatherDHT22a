@@ -1,0 +1,1 @@
+# WemoWeatherDHT22a
